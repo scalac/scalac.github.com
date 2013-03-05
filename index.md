@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 萍水相逢
+title: Learn Scala
 ---
 
 ### 陈自新的博客
