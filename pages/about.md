@@ -20,9 +20,9 @@ __Focus__
 * JavaScript
 * CSS
 * SEO
+* English
 * Advertising Supported
 * Chinese Ancient Culture
-* English
 
 
 __Brief__
@@ -53,6 +53,7 @@ __Brief__
 __Code__
 
 {% highlight ruby %}
-print 'Hello, World!'
+# -*- coding: utf-8 -*-
+print 'Hello, 世界!'
 {% endhighlight %}
 
