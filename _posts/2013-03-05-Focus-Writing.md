@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "专注写作"
-description: ""
+description: "<p>Scala 的学习曲线很陡，不过，学会之后，用起来应该很爽！</p><p>期待了三年的《<a href='http://manning.com/raychaudhuri/' target='_blank'>Scala in Action</a>》，三月会发布吗？</p>"
 category: blog
 tags: [java]
 ---
