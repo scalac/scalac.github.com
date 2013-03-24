@@ -11,6 +11,23 @@ Scala 的学习曲线很陡，不过，学会之后，用起来应该很爽！
 
 期待了三年的《[Scala in Action](http://manning.com/raychaudhuri/)》，三月会发布吗？
 
+范例
+
+```scala
+object HelloWorld {
+   def main(args: Array[String]) {
+     println("Hello, world!")
+   }
+ }
+ ```
+或者
+
+ {% highlight scala %}
+  object HelloWorld extends App {
+   println("Hello, world!")
+ }
+ {% endhighlight %}
+
 附：
 
 **Mac Shell javac 中文乱码**

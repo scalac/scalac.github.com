@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    {% if page.description %}<meta name="description" content="{{ page.description | strip_html }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
 
     <!-- Enable responsive viewport -->
@@ -45,7 +45,7 @@
             <li><a href="/categories.html">分类</a></li>
             <li><a href="/archive.html">归档</a></li>
             <li><a href="/tags.html">标签</a></li>
-            <li><a href="http://www.chenzixin.com/pages/about.html">关于</a></li>
+            <li><a href="/pages/about.html">关于</a></li>
           </ul>
         </div>
       </div>
@@ -58,9 +58,7 @@
       </div>
       <hr>
       <footer>
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+        <p>&copy; {{ site.time | date: '%Y' }} <a href='https://github.com/chenzixin' target='_blank'>{{ site.author.name }}</a> with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>, <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a> and <a href="http://4what.github.com/" target="_blank">4what</a>.
         </p>
       </footer>
 
