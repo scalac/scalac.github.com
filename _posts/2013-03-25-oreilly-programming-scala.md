@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oreilly Programming Scala"
-description: "<p style='text-align:justify; text-justify:inter-ideograph'>Programming Scala introduces an exciting new language that offers all the benefits of a modern object model, functional programming, and an advanced type system. Packed with code examples, this comprehensive book teaches you how to be productive with Scala quickly, and explains what makes this language ideal for today's highly scalable, component-based applications that support concurrency and distribution. You'll also learn the advantages that Scala offers as a language for the Java Virtual Machine.</p>"
+description: "<p class='justify'>Programming Scala introduces an exciting new language that offers all the benefits of a modern object model, functional programming, and an advanced type system. Packed with code examples, this comprehensive book teaches you how to be productive with Scala quickly, and explains what makes this language ideal for today's highly scalable, component-based applications that support concurrency and distribution. You'll also learn the advantages that Scala offers as a language for the Java Virtual Machine.</p>"
 category: book
 tags: [scala]
 ---
@@ -24,7 +24,7 @@ tags: [scala]
 <p>Pages: 450</p>
 </td></tr></table>
 
-<p style='text-align:justify; text-justify:inter-ideograph'>Programming Scala introduces an exciting new language that offers all the benefits of a modern object model, functional programming, and an advanced type system. Packed with code examples, this comprehensive book teaches you how to be productive with Scala quickly, and explains what makes this language ideal for today's highly scalable, component-based applications that support concurrency and distribution. You'll also learn the advantages that Scala offers as a language for the Java Virtual Machine.</p>
+<p class='justify'>Programming Scala introduces an exciting new language that offers all the benefits of a modern object model, functional programming, and an advanced type system. Packed with code examples, this comprehensive book teaches you how to be productive with Scala quickly, and explains what makes this language ideal for today's highly scalable, component-based applications that support concurrency and distribution. You'll also learn the advantages that Scala offers as a language for the Java Virtual Machine.</p>
 
 ----
 

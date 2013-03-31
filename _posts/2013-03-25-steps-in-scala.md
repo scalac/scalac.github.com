@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Steps in Scala"
-description: "<p style='text-align:justify; text-justify:inter-ideograph'>Scala is a highly expressive, concise and scalable language. It is also the most prominent method of the new and exciting methodology known as object-functional programming. In this book, the authors show how Scala grows to the needs of the programmer, whether professional or hobbyist. They teach Scala with a step-by-step approach and explain how to exploit the full power of the industry-proven JVM technology. Readers can then dive into specially chosen design challenges and implementation problems, inspired by the trials of real-world software engineering. It also helps readers to embrace the power of static typing and automatic type inference. In addition, the book shows how to use the dual-object and functional-oriented natures combined at Scala's core, and so write code that is less 'boilerplate', giving a genuine increase in productivity.</p>
+description: "<p class='justify'>Scala is a highly expressive, concise and scalable language. It is also the most prominent method of the new and exciting methodology known as object-functional programming. In this book, the authors show how Scala grows to the needs of the programmer, whether professional or hobbyist. They teach Scala with a step-by-step approach and explain how to exploit the full power of the industry-proven JVM technology. Readers can then dive into specially chosen design challenges and implementation problems, inspired by the trials of real-world software engineering. It also helps readers to embrace the power of static typing and automatic type inference. In addition, the book shows how to use the dual-object and functional-oriented natures combined at Scala's core, and so write code that is less 'boilerplate', giving a genuine increase in productivity.</p>
 "
 category: book
 tags: [scala]
@@ -25,7 +25,7 @@ tags: [scala]
 <p>Pages: 504</p>
 </td></tr></table>
 
-<p style='text-align:justify; text-justify:inter-ideograph'>
+<p class='justify'>
 Scala is a highly expressive, concise and scalable language. It is also the most prominent method of the new and exciting methodology known as object-functional programming. In this book, the authors show how Scala grows to the needs of the programmer, whether professional or hobbyist. They teach Scala with a step-by-step approach and explain how to exploit the full power of the industry-proven JVM technology. Readers can then dive into specially chosen design challenges and implementation problems, inspired by the trials of real-world software engineering. It also helps readers to embrace the power of static typing and automatic type inference. In addition, the book shows how to use the dual-object and functional-oriented natures combined at Scala's core, and so write code that is less 'boilerplate', giving a genuine increase in productivity.</p>
 
 Preface

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apress Beginning Scala"
-description: "<p style='text-align:justify; text-justify:inter-ideograph'>The open source Scala language is a Java-based dynamic scripting, functional programming language. Moreover, this highly scalable scripting language lends itself well to building cloud-based/deliverable Software as a Service (SaaS) online applications.</p><p style='text-align:justify; text-justify:inter-ideograph'>Written by Lift Scala web framework founder and lead Dave Pollak, Beginning Scala takes a down-to-earth approach to teaching Scala that leads you through simple examples that can be combined to build complex, scalable systems and applications.</p><p style='text-align:justify; text-justify:inter-ideograph'>This book introduces you to the Scala programming language and then guides you through Scala constructs and libraries that allow small and large teams to assemble small components into high-performance, scalable systems. You will learn why Scala is becoming the language of choice for Web 2.0 companies such as Twitter as well as enterprises such as Seimens and SAP.</p>"
+description: "<p class='justify'>The open source Scala language is a Java-based dynamic scripting, functional programming language. Moreover, this highly scalable scripting language lends itself well to building cloud-based/deliverable Software as a Service (SaaS) online applications.</p><p class='justify'>Written by Lift Scala web framework founder and lead Dave Pollak, Beginning Scala takes a down-to-earth approach to teaching Scala that leads you through simple examples that can be combined to build complex, scalable systems and applications.</p><p class='justify'>This book introduces you to the Scala programming language and then guides you through Scala constructs and libraries that allow small and large teams to assemble small components into high-performance, scalable systems. You will learn why Scala is becoming the language of choice for Web 2.0 companies such as Twitter as well as enterprises such as Seimens and SAP.</p>"
 category: book
 tags: [scala]
 ---
@@ -24,11 +24,11 @@ tags: [scala]
 </td></tr></table>
 
 
-<p style='text-align:justify; text-justify:inter-ideograph'>The open source Scala language is a Java-based dynamic scripting, functional programming language. Moreover, this highly scalable scripting language lends itself well to building cloud-based/deliverable Software as a Service (SaaS) online applications.</p>
+<p class='justify'>The open source Scala language is a Java-based dynamic scripting, functional programming language. Moreover, this highly scalable scripting language lends itself well to building cloud-based/deliverable Software as a Service (SaaS) online applications.</p>
 
-<p style='text-align:justify; text-justify:inter-ideograph'>Written by Lift Scala web framework founder and lead Dave Pollak, Beginning Scala takes a down-to-earth approach to teaching Scala that leads you through simple examples that can be combined to build complex, scalable systems and applications.</p>
+<p class='justify'>Written by Lift Scala web framework founder and lead Dave Pollak, Beginning Scala takes a down-to-earth approach to teaching Scala that leads you through simple examples that can be combined to build complex, scalable systems and applications.</p>
 
-<p style='text-align:justify; text-justify:inter-ideograph'>This book introduces you to the Scala programming language and then guides you through Scala constructs and libraries that allow small and large teams to assemble small components into high-performance, scalable systems. You will learn why Scala is becoming the language of choice for Web 2.0 companies such as Twitter as well as enterprises such as Seimens and SAP.</p>
+<p class='justify'>This book introduces you to the Scala programming language and then guides you through Scala constructs and libraries that allow small and large teams to assemble small components into high-performance, scalable systems. You will learn why Scala is becoming the language of choice for Web 2.0 companies such as Twitter as well as enterprises such as Seimens and SAP.</p>
 
 
 1. About Scala and How to Install It

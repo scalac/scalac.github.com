@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Programming in Scala"
-description: "<p style='text-align:justify; text-justify:inter-ideograph'>Scala is an object-oriented programming language for the Java Virtual Machine. In addition to being object-oriented, Scala is also a functional language, and combines the best approaches to OO and functional programming.</p><p style='text-align:justify; text-justify:inter-ideograph'>In Italian, Scala means a stairway, or steps—indeed, Scala lets you step up to a programming environment that incorporates some of the best recent thinking in programming language design while also letting you use all your existing Java code.</p>"
+description: "<p class='justify'>Scala is an object-oriented programming language for the Java Virtual Machine. In addition to being object-oriented, Scala is also a functional language, and combines the best approaches to OO and functional programming.</p><p class='justify'>In Italian, Scala means a stairway, or steps—indeed, Scala lets you step up to a programming environment that incorporates some of the best recent thinking in programming language design while also letting you use all your existing Java code.</p>"
 category: book
 tags: [scala]
 ---

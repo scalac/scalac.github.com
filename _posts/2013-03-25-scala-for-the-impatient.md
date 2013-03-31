@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scala for the Impatient"
-description: "<p style='text-align:justify; text-justify:inter-ideograph'>Scala is a modern programming language for the Java Virtual Machine (JVM) that combines the best features of object-oriented and functional programming languages. Using Scala, you can write programs more concisely than in Java, as well as leverage the full power of concurrency. Since Scala runs on the JVM, it can access any Java library and is interoperable with Java frameworks.</p><p style='text-align:justify; text-justify:inter-ideograph'>Scala for the Impatient concisely shows developers what Scala can do and how to do it. In this book, Cay Horstmann, the principal author of the international best-selling Core Java™, offers a rapid, code-based introduction that’s completely practical. Horstmann introduces Scala concepts and techniques in “blog-sized” chunks that you can quickly master and apply. Hands-on activities guide you through well-defined stages of competency, from basic to expert.</p>"
+description: "<p class='justify'>Scala is a modern programming language for the Java Virtual Machine (JVM) that combines the best features of object-oriented and functional programming languages. Using Scala, you can write programs more concisely than in Java, as well as leverage the full power of concurrency. Since Scala runs on the JVM, it can access any Java library and is interoperable with Java frameworks.</p><p class='justify'>Scala for the Impatient concisely shows developers what Scala can do and how to do it. In this book, Cay Horstmann, the principal author of the international best-selling Core Java™, offers a rapid, code-based introduction that’s completely practical. Horstmann introduces Scala concepts and techniques in “blog-sized” chunks that you can quickly master and apply. Hands-on activities guide you through well-defined stages of competency, from basic to expert.</p>"
 category: book
 tags: [scala]
 ---
@@ -23,9 +23,9 @@ tags: [scala]
 <p>Pages in Print Edition: 384</p>
 </td></tr></table>
 
-<p style='text-align:justify; text-justify:inter-ideograph'>Scala is a modern programming language for the Java Virtual Machine (JVM) that combines the best features of object-oriented and functional programming languages. Using Scala, you can write programs more concisely than in Java, as well as leverage the full power of concurrency. Since Scala runs on the JVM, it can access any Java library and is interoperable with Java frameworks.</p>
+<p class='justify'>Scala is a modern programming language for the Java Virtual Machine (JVM) that combines the best features of object-oriented and functional programming languages. Using Scala, you can write programs more concisely than in Java, as well as leverage the full power of concurrency. Since Scala runs on the JVM, it can access any Java library and is interoperable with Java frameworks.</p>
 
-<p style='text-align:justify; text-justify:inter-ideograph'>Scala for the Impatient concisely shows developers what Scala can do and how to do it. In this book, Cay Horstmann, the principal author of the international best-selling Core Java™, offers a rapid, code-based introduction that’s completely practical. Horstmann introduces Scala concepts and techniques in “blog-sized” chunks that you can quickly master and apply. Hands-on activities guide you through well-defined stages of competency, from basic to expert. Coverage includes  </p>
+<p class='justify'>Scala for the Impatient concisely shows developers what Scala can do and how to do it. In this book, Cay Horstmann, the principal author of the international best-selling Core Java™, offers a rapid, code-based introduction that’s completely practical. Horstmann introduces Scala concepts and techniques in “blog-sized” chunks that you can quickly master and apply. Hands-on activities guide you through well-defined stages of competency, from basic to expert. Coverage includes  </p>
 
 * Getting started quickly with Scala’s interpreter, syntax, tools, and unique idioms
 
@@ -47,7 +47,7 @@ tags: [scala]
 
 * Applying advanced “power tools” such as annotations, implicits, and delimited continuations 
 
-<p style='text-align:justify; text-justify:inter-ideograph'>Scala is rapidly reaching a tipping point that will reshape the experience of programming. This book will help object-oriented programmers build on their existing skills, allowing them to immediately construct useful applications as they gradually master advanced programming techniques.</p>
+<p class='justify'>Scala is rapidly reaching a tipping point that will reshape the experience of programming. This book will help object-oriented programmers build on their existing skills, allowing them to immediately construct useful applications as they gradually master advanced programming techniques.</p>
 
 1. The Basics (A1)
 2. Control Structures and Functions (A1)
