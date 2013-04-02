@@ -13,6 +13,8 @@ tags: [scala, twitter]
 
 [第二部分](http://www.importnew.com/3578.html)
 
+[第三部分](http://www.importnew.com/3673.html)
+
 在《Scala in Action》 到来之前，我要想办法把 Twitter School 里的知识学完。
 
 加油，别等 Manning 的书都发了，这个文章还是一篇草稿！
