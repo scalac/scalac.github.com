@@ -61,6 +61,12 @@ members.add(new User());
 
 - [Metadata (Annotations)](http://docs.oracle.com/javase/1.5.0/docs/guide/language/annotations.html)
 
+[介绍 JDK 5.0 中的泛型](http://www.ibm.com/developerworks/cn/education/java/j-generics/)
+
+[Tiger 中的注释，第 1 部分: 向 Java 代码中添加元数据](http://www.ibm.com/developerworks/cn/java/j-annotate1/)
+
+[Tiger 中的注释，第 2 部分: 定制注释](http://www.ibm.com/developerworks/cn/java/j-annotate2.html)
+
 ## [JDK 6 Mustang](http://docs.oracle.com/javase/6/docs/)
 
 [Features and Enhancements Java SE 6](http://www.oracle.com/technetwork/java/javase/features-141434.html)
@@ -78,6 +84,36 @@ members.add(new User());
 - Increased Developer Productivity
 
 -  Built in Apache Derby 
+
+以下来自 达内 的培训课件：
+
+- JDK6的新特性之一 -- Desktop 类和 SystemTray 类
+
+- JDK6的新特性之二 -- 使用 JAXB2 来实现对象与 XML 之间的映射
+
+- JDK6的新特性之三 -- 理解 StAX 
+
+- JDK6的新特性之四 -- 使用 Compiler API
+
+- JDK6的新特性之五 -- 轻量级 HttpServer
+
+- JDK6的新特性之六 -- 插入式注解处理 API 
+
+- JDK6的新特性之七 -- 用 Console 开发控制台程序 
+
+- JDK6的新特性之八 -- 嵌入式数据库 Derby
+
+- JDK6的新特性之九 -- CommonAnnotations 
+
+- JDK6的新特性之十 -- Web 服务元数据 
+
+- JDK6的新特性之十一 -- 更简单强大的 JAX-WS 
+
+- JDK6的新特性之十二 -- 脚本语言支持
+
+- JDK6的新特性之十三 -- JTable 的排序和过滤
+
+[IBM Developerworks Java SE 6 新特性系列](http://www.ibm.com/developerworks/cn/java/j-lo-jse6/)
 
 ## [JDK 7 Dolphin](http://docs.oracle.com/javase/7/docs/)
 
