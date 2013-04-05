@@ -19,26 +19,25 @@ Java 数据类型 + 集合框架 + JSP + Spring 1.2.8 + JDO
 
 ## 1. Java 深度历险
 
-[Java深度历险（一）—— Java字节代码的操纵](http://www.infoq.com/cn/articles/cf-java-byte-code)
+- [Java深度历险（一）—— Java字节代码的操纵](http://www.infoq.com/cn/articles/cf-java-byte-code)
 
-[Java深度历险（二）—— Java类的加载、链接和初始化](http://www.infoq.com/cn/articles/cf-Java-class-loader)
+- [Java深度历险（二）—— Java类的加载、链接和初始化](http://www.infoq.com/cn/articles/cf-Java-class-loader)
 
-[Java深度历险（三）—— Java线程​：基本概念、可见性与同步](http://www.infoq.com/cn/articles/cf-java-thread)
+- [Java深度历险（三）—— Java线程​：基本概念、可见性与同步](http://www.infoq.com/cn/articles/cf-java-thread)
 
-[Java深度历险（四）—— Java垃圾回收机制与引用类型](http://www.infoq.com/cn/articles/cf-java-garbage-references)
+- [Java深度历险（四）—— Java垃圾回收机制与引用类型](http://www.infoq.com/cn/articles/cf-java-garbage-references)
 
-[Java深度历险（五）—— Java泛型](http://www.infoq.com/cn/articles/cf-java-generics)
+- [Java深度历险（五）—— Java泛型](http://www.infoq.com/cn/articles/cf-java-generics)
 
-[Java深度历险（六）—— Java注解](http://www.infoq.com/cn/articles/cf-java-annotation)
+- [Java深度历险（六）—— Java注解](http://www.infoq.com/cn/articles/cf-java-annotation)
 
-[Java深度历险（七）—— Java反射与动态代理](http://www.infoq.com/cn/articles/cf-java-reflection-dynamic-proxy)
+- [Java深度历险（七）—— Java反射与动态代理](http://www.infoq.com/cn/articles/cf-java-reflection-dynamic-proxy)
 
-[Java深度历险（八）—— Java I/O](http://www.infoq.com/cn/articles/cf-java-i-o)
+- [Java深度历险（八）—— Java I/O](http://www.infoq.com/cn/articles/cf-java-i-o)
 
-[Java深度历险（九）—— Java安全](http://www.infoq.com/cn/articles/cf-java-security)
+- [Java深度历险（九）—— Java安全](http://www.infoq.com/cn/articles/cf-java-security)
 
-[Java深度历险（十）—— Java对象序列化与RMI](http://www.infoq.com/cn/articles/cf-java-object-serialization-rmi)
-
+- [Java深度历险（十）—— Java对象序列化与RMI](http://www.infoq.com/cn/articles/cf-java-object-serialization-rmi)
 
 
 ## 2. 深入理解 Java 内存模型
@@ -57,5 +56,33 @@ Java 数据类型 + 集合框架 + JSP + Spring 1.2.8 + JDO
 - [深入理解Java内存模型（六）—— final](http://www.infoq.com/cn/articles/java-memory-model-6)
 
 - [深入理解Java内存模型（七）—— 总结](http://www.infoq.com/cn/articles/java-memory-model-7)
+
+## 3. 聊聊并发
+
+- [聊聊并发（一）—— 深入分析 Volatile 的实现原理](http://www.infoq.com/cn/articles/ftf-java-volatile)
+
+- [聊聊并发（三）—— Java 线程池的分析和使用](http://www.infoq.com/cn/articles/java-threadPool)
+
+- [聊聊并发（四）—— 深入分析ConcurrentHashMap](http://www.infoq.com/cn/articles/ConcurrentHashMap)
+
+- [聊聊并发（五）—— 原子操作的实现原理](http://www.infoq.com/cn/articles/atomic-operation)
+
+- [聊聊并发（六）—— ConcurrentLinkedQueue 的实现原理分析](http://www.infoq.com/cn/articles/ConcurrentLinkedQueue)
+
+## 4. 序列化
+
+- [理解Java对象序列化](http://www.blogjava.net/jiangshachina/archive/2012/02/13/369898.html)
+
+ [Jiangsha China 107 篇日志 写得非常用心](http://www.blogjava.net/jiangshachina/)
+
+## 5. Java Web 高性能开发系列
+
+- [Java Web 高性能开发系列，第 1 部分: 前端的高性能](http://www.ibm.com/developerworks/cn/java/j-lo-javawebhiperf1/index.html)
+
+- [Java Web 高性能开发系列，第 2 部分: 前端的高性能](http://www.ibm.com/developerworks/cn/java/j-lo-javawebhiperf2/index.html)
+
+## 6. Import New
+
+[伯乐在线博客团队发起 个专注于 Java & Android 技术分享](http://www.importnew.com/)
 
 持续更新……
