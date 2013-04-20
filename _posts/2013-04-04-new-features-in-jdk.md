@@ -87,31 +87,31 @@ members.add(new User());
 
 以下来自 达内 的培训课件：
 
-- JDK6的新特性之一 -- Desktop 类和 SystemTray 类
+- Desktop 类和 SystemTray 类
 
-- JDK6的新特性之二 -- 使用 JAXB2 来实现对象与 XML 之间的映射
+- 使用 JAXB2 来实现对象与 XML 之间的映射
 
-- JDK6的新特性之三 -- 理解 StAX 
+- 理解 StAX 
 
-- JDK6的新特性之四 -- 使用 Compiler API
+- 使用 Compiler API
 
-- JDK6的新特性之五 -- 轻量级 HttpServer
+- 轻量级 HttpServer
 
-- JDK6的新特性之六 -- 插入式注解处理 API 
+- 插入式注解处理 API 
 
-- JDK6的新特性之七 -- 用 Console 开发控制台程序 
+- 用 Console 开发控制台程序 
 
-- JDK6的新特性之八 -- 嵌入式数据库 Derby
+- 嵌入式数据库 Derby
 
-- JDK6的新特性之九 -- CommonAnnotations 
+- CommonAnnotations 
 
-- JDK6的新特性之十 -- Web 服务元数据 
+- Web 服务元数据 
 
-- JDK6的新特性之十一 -- 更简单强大的 JAX-WS 
+- 更简单强大的 JAX-WS 
 
-- JDK6的新特性之十二 -- 脚本语言支持
+- 脚本语言支持
 
-- JDK6的新特性之十三 -- JTable 的排序和过滤
+- JTable 的排序和过滤
 
 [IBM Developerworks Java SE 6 新特性系列](http://www.ibm.com/developerworks/cn/java/j-lo-jse6/)
 
@@ -141,7 +141,7 @@ members.add(new User());
 
 2. [Ken's blog](http://www.iamcoding.com/)
 
-- [JDK7新特性 一 概述](http://www.iamcoding.com/?p=19)
+- [JDK7新特性一 概述](http://www.iamcoding.com/?p=19)
 
 - [JDK7新特性二 语法](http://www.iamcoding.com/?p=83)
 
