@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When and How a Java class is Loaded and Initialized"
+title: "Class Loaded and Initialized"
 description: "<p>As we know .java file is first compiled to .class file at compile time. And we know Java can load a class at run time.</p><p>The confusion is what is the difference between 'load' and 'initialize'. When and how is a Java class loaded and initialized?</p><p>What does it mean by saying 'load a class' ?</p>"
 category: java
 tags: [class, java]

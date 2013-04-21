@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HashMap vs TreeMap vs HashTable vs LinkedHashMap"
+title: "HashMap vs TreeMap"
 description: "<p>Map is an important data structure. In this article, let's play with dogs and see how maps can be helpful in our development.</p><p>There are 4 commonly used implementations of Map in Java SE - HashMap, TreeMap, Hashtable and LinkedHashMap. </p>"
 category: java
 tags: [hashmap, map, treemap]

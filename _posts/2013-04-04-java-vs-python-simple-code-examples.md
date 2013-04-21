@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java vs Python: Simple Code Examples"
+title: "Java vs Python"
 description: "<p class='justify'>Some people have claimed that Python is more <b>productive</b> than Java. It is dangerous to make such a claim, because it may take several days to prove that throughly. From a high level view, Java is statically typed, which means all variable names have to be explicitly declared. In contrast, Python is dynamically typed, which means declaration is not required. There is a huge debate between dynamic typing and static typing in programming languages. This post does not talk about that. However, there is one thing that can be agreed – Python is an interpreted language with elegant syntax and that makes it a very good option for scripting and rapid application development in many areas.</p>"
 category: java
 tags: [java, python]

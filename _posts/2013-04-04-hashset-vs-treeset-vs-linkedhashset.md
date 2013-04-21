@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HashSet vs TreeSet vs LinkedHashSet"
+title: "HashSet vs TreeSet"
 description: "<p class='justify'>In a set, there are no duplicate elements. That is one of the major reasons to use a set. There are 3 commonly used implementations of Set in Java: HashSet, TreeSet and LinkedHashSet. When and which to use is an important question. In brief, if we want a fast set, we should use HashSet; if we need a sorted set, then TreeSet should be used; if we want a set that can be read by following its insertion order, LinkedHashSet should be used.</p>"
 category: java
 tags: [set, treeset]
