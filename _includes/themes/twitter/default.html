@@ -36,10 +36,20 @@
   -->
   <!-- atom & rss feed -->
   <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
-  <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed"></head>
+  <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+
+  <script type="text/javascript">
+    $(function () {
+      if($.ua.platform.mobile){
+        $("#sidebar").hide();
+      }
+    });
+  </script>
+
+</head>
 
 <body>
-  <div class="navbar">
+  <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
       <div class="container-narrow">
         <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
@@ -69,7 +79,7 @@
   <div class="container">
 
     <div class="row">
-      <div class="span3" style="margin-top: 3px;">
+      <div class="span3"  style="margin-top: 60px;">
         <ul class="nav nav-list affix" id="sidebar">
         {% assign categories_list = site.categories %}
         <li class="active nav-header"><a href="#"><h6>Category List</h6></a></li>
@@ -81,7 +91,7 @@
           </a>
         </li>
         {% endfor %}
-          <li class="active nav-header"><a href="#"><h6>New Posts</h6></a></li>
+          <li class="active nav-header"><a href="#"><h6>Recent Posts</h6></a></li>
           {% for post in site.posts offset:0 limit:7 %}
             {% unless post.draft %}
           <li>
@@ -93,7 +103,7 @@
 
       </div>
 
-      <div class="span9">
+      <div class="span9" style="margin-top: 50px;">
         {{ content }}
         <hr>
         <footer>
@@ -115,10 +125,5 @@
     </div>
   </div>
   {% include JB/analytics %}
-  <script type="text/javascript">
-    if($.ua.platform.mobile){
-      $("#sidebar").hide();
-    }
-  </script>
 </body>
 </html>
