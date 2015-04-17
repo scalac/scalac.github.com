@@ -85,12 +85,12 @@
     var ie7 = ie && v7;
     var ie8 = ie && v8;
 
-    if($(window).width() > 1200  && !ie6){
+    if($(window).width() > 12000  && !ie6){
         $(".mt60").show();
     }
 
     $(window).resize(function() {
-      if ($(window).width() > 1200 && !ie6) {
+      if ($(window).width() > 12000 && !ie6) {
         $(".mt60").show();
       } else{
         $(".mt60").hide();
